@@ -1,0 +1,8 @@
+{
+  "name": "Aayu",
+  "description": "A mobile-first health triage assistant for India providing clear urgency guidance and clinician-ready summaries.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
